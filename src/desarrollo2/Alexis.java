@@ -11,5 +11,6 @@ package desarrollo2;
 public class Alexis {
     public static void main(String[] args) {
         System.out.println("Hola Karen :D ...");
+        System.out.println(":´v");
     }
 }
